@@ -10,7 +10,7 @@ This portfolio showcases selected original work in GPU optimization, geospatial 
 - **Folder**: `3d_vae_medical_imaging/`
 - Designed a custom 3D variational autoencoder (VAE) in TensorFlow to expand a dataset of 50 angiograms into over 1,000 synthetic volumes.
 - Achieved a 35% training speedup via CUDA-accelerated mixed-precision optimization.
-- Includes custom architecture and training experiments that informed methodology for the paper below.
+- Includes custom architecture and training experiments that contributed to methodology for the paper below.
 - [ISVC 2023 Paper](3d_vae_medical_imaging/3D_Reconstruction_from_2D_Cerebral_Angiograms_as_a_Volumetric_Denoising_Problem.pdf)
 - [Experiment Notebook (PyTorch)](3d_vae_medical_imaging/3D-VAE_PyTorch.ipynb)
 
