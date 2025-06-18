@@ -1,6 +1,6 @@
-# Jacob Dugan – Technical Portfolio for SpaceX
+# Jacob Dugan – Technical Portfolio
 
-This portfolio showcases selected original work in GPU optimization, geospatial routing, and reinforcement learning. All code is authored by me and demonstrates technical depth relevant to a Software Engineering role at SpaceX.
+This portfolio showcases selected original work in GPU optimization, geospatial routing, and reinforcement learning. All code is authored by me and demonstrates technical depth relevant to a Software Engineering role.
 
 ---
 
